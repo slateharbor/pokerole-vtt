@@ -8,12 +8,14 @@ No install. No server. No accounts. You download one file, open it in a browser,
 
 **[▶ Try it live](https://slateharbor.github.io/pokerole-vtt/)** — no download needed.
 
-<!-- Screenshots go here. Four that sell it: a battle mid-fight with the reaction
-     prompt up, the campaign planner, a tournament bracket, and the player's phone
-     view. Drop the PNGs in docs/img/ and uncomment.
+<!-- Drop the three PNGs in docs/img/, then delete this line and the one below it.
 
-![Combat tracker](docs/img/combat.png)
-![Campaign planner](docs/img/campaign.png)
+![A battle mid-round — initiative order, weather, statuses and HP on every combatant](docs/img/combat.png)
+
+![The player's own screen during someone else's turn — the incoming attack, the dodge pool built off their sheet, and what reacting costs](docs/img/player-reaction.png)
+
+![A tournament bracket mid-event, with seeding and side betting](docs/img/tournament.png)
+
 -->
 
 ---
