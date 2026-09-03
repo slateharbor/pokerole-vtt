@@ -2,6 +2,8 @@
 
 A virtual tabletop for the **Pokérole** tabletop RPG, built as two self-contained HTML files.
 
+Built and maintained by [**slateharbor**](https://github.com/slateharbor).
+
 No install. No server. No accounts. You download one file, open it in a browser, and a full combat engine with 1,200 species, 860 moves and 300 automated abilities is running.
 
 **[▶ Try it live](https://slateharbor.github.io/pokerole-vtt/)** — no download needed.
@@ -95,6 +97,15 @@ index.html                      landing page for the live demo
 ## Status
 
 Built for, and run at, a live weekly table. It is a personal project rather than a product: there's no support, no roadmap, and no promise the next commit won't move something. But it works, and it has been carrying real sessions for months.
+
+---
+
+## Licence
+
+MIT — see [LICENSE](LICENSE). Copyright (c) 2026 **slateharbor**.
+
+Use it, fork it, run your table on it. The only condition is that the copyright notice
+travels with it.
 
 ---
 
