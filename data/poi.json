@@ -1,0 +1,16 @@
+{
+"pallet":{"center":false,"mart":false,"list":[["Player's & Rival's houses","Mom heals your party"],["Daisy Oak","gives the Town Map; grooms Pokémon"]]},
+"viridian":{"center":true,"mart":true,"list":[["Trainer School","teaches the basics; wall notes & a free Potion"],["Poké Mart clerk","hands over Oak's Parcel"],["Move Tutor (SW)","teaches Dream Eater (needs Cut/Surf to reach)"],["Sleeping old man","blocks Route 2 until the Parcel is delivered"]]},
+"pewter":{"center":true,"mart":true,"list":[["Running-Shoes aide","by the Route 3 gate, after Brock (FRLG)"],["Magikarp salesman nearby","the famous ₽500 Magikarp con"]]},
+"cerulean":{"center":true,"mart":true,"list":[["Bike Shop","bikes ₽1,000,000 — or free with the Vermilion Bike Voucher"],["Burgled house","a Rocket dug in and stole TM28 Dig; Officer Jenny"],["Poliwhirl ⇄ Jynx trade","an in-town trainer"],["Badge-effects house","explains badges; hidden Rare Candy out back"]]},
+"vermilion":{"center":true,"mart":true,"list":[["Fishing Guru","gives the Old Rod"],["Spearow/Pidgey ⇄ Farfetch'd trade","a girl's house"],["Machop construction site","the perpetually-unfinished building"]]},
+"lavender":{"center":true,"mart":true,"list":[["Name Rater","renames a Pokémon, south end of town"],["Poké Mart","stocks Revives & status heals — handy near the Tower"]]},
+"celadon":{"center":true,"mart":true,"list":[["Celadon Dept. Store","the biggest shop in Kanto — TMs, evo stones, vitamins, drinks"],["Celadon Condominiums","a free Eevee upstairs; Game Freak's office (diploma)"],["Celadon Hotel","always 'fully booked'"],["Restaurant","gives the Coin Case for the Game Corner"],["Move Tutor","teaches Softboiled"]]},
+"fuchsia":{"center":true,"mart":true,"list":[["Warden's house (Baoba)","return the Gold Teeth for HM04 Strength; hidden Rare Candy"],["Good Rod house","the Fishing Guru's brother"],["Move Deleter","forgets moves, incl. HMs (FRLG)"],["Pokémon Zoo","Chansey, Lapras, Kangaskhan & more on display"]]},
+"saffron":{"center":true,"mart":true,"list":[["Mr. Psychic's house","free TM29 Psychic (SE corner)"],["Copycat's house","trade a Poké Doll for TM31 Mimic (NW)"],["Trainer Fan Club","trainer enthusiasts (FRLG)"]]},
+"cinnabar":{"center":true,"mart":true,"list":[["Gym is locked","needs the Secret Key from the Pokémon Mansion"],["Quiz gym","Blaine poses trivia between battles"]]},
+"indigo":{"center":true,"mart":true,"list":[["Reception","combined Center + a Poké Mart with the rarest stock (Full Restores, etc.)"],["Elite Four","Lorelei (Ice) → Bruno (Fighting) → Agatha (Ghost) → Lance (Dragon)"],["Champion","Blue / your rival"],["Hall of Fame","records the winning team"]]},
+"route4":{"center":true,"mart":false,"list":[["Magikarp salesman","sells a Magikarp for ₽500 inside the Route 4 Pokémon Center"]]},
+"route5":{"center":false,"mart":false,"list":[["Pokémon Day Care","leave a Pokémon with the old man to gain levels"]]},
+"route10":{"center":true,"mart":false,"list":[["Pokémon Center","a welcome rest stop above Rock Tunnel"]]}
+}

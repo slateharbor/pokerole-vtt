@@ -1,0 +1,17 @@
+# working backups
+*.bak
+*.bak*
+*.old
+*~
+
+# your own Firebase config — the shipped one is blank on purpose
+data/firebase.local.json
+
+# copyrighted rulebook text must never land here
+data/corebook.txt
+
+# OS / editor junk
+Thumbs.db
+.DS_Store
+desktop.ini
+*.tmp

@@ -1,0 +1,1040 @@
+[
+ {
+  "class": "Bug Catcher",
+  "biomes": [
+   "Grassland",
+   "Forest"
+  ],
+  "size": [
+   1,
+   3
+  ],
+  "pokemon": [
+   "Caterpie",
+   "Weedle",
+   "Metapod",
+   "Kakuna",
+   "Venonat",
+   "Paras",
+   "Beedrill",
+   "Butterfree",
+   "Wurmple",
+   "Silcoon",
+   "Cascoon",
+   "Ledyba",
+   "Spinarak",
+   "Pineco",
+   "Yanma",
+   "Nincada",
+   "Surskit",
+   "Kricketot",
+   "Sewaddle",
+   "Venipede",
+   "Grubbin",
+   "Blipbug",
+   "Combee",
+   "Scatterbug"
+  ]
+ },
+ {
+  "class": "Youngster",
+  "biomes": [
+   "Grassland",
+   "Mountain",
+   "Urban"
+  ],
+  "size": [
+   1,
+   3
+  ],
+  "pokemon": [
+   "Rattata",
+   "Spearow",
+   "Ekans",
+   "Sandshrew",
+   "Nidoran M",
+   "Mankey",
+   "Raticate",
+   "Sentret",
+   "Hoothoot",
+   "Poochyena",
+   "Zigzagoon",
+   "Bidoof",
+   "Starly",
+   "Patrat",
+   "Lillipup",
+   "Bunnelby",
+   "Yungoos",
+   "Skwovet",
+   "Rookidee",
+   "Nickit",
+   "Wooloo"
+  ]
+ },
+ {
+  "class": "Lass",
+  "biomes": [
+   "Grassland",
+   "Forest",
+   "Urban"
+  ],
+  "size": [
+   1,
+   3
+  ],
+  "pokemon": [
+   "Pidgey",
+   "Oddish",
+   "Nidoran F",
+   "Jigglypuff",
+   "Meowth",
+   "Bellsprout",
+   "Clefairy",
+   "Marill",
+   "Hoppip",
+   "Skitty",
+   "Buneary",
+   "Cherubi",
+   "Petilil",
+   "Minccino",
+   "Swirlix",
+   "Cutiefly",
+   "Morelull",
+   "Milcery",
+   "Skiploom",
+   "Togepi"
+  ]
+ },
+ {
+  "class": "Bird Keeper",
+  "biomes": [
+   "Grassland",
+   "Mountain",
+   "Coast",
+   "Sea"
+  ],
+  "size": [
+   1,
+   3
+  ],
+  "pokemon": [
+   "Pidgey",
+   "Pidgeotto",
+   "Spearow",
+   "Fearow",
+   "Doduo",
+   "Dodrio",
+   "Hoothoot",
+   "Noctowl",
+   "Natu",
+   "Taillow",
+   "Swablu",
+   "Starly",
+   "Staravia",
+   "Ducklett",
+   "Fletchling",
+   "Rufflet",
+   "Vullaby",
+   "Pikipek",
+   "Rookidee",
+   "Corvisquire",
+   "Wingull",
+   "Murkrow"
+  ]
+ },
+ {
+  "class": "Hiker",
+  "biomes": [
+   "Mountain",
+   "Cave",
+   "Tunnel"
+  ],
+  "size": [
+   1,
+   3
+  ],
+  "pokemon": [
+   "Geodude",
+   "Graveler",
+   "Onix",
+   "Machop",
+   "Sandshrew",
+   "Sandslash",
+   "Rhyhorn",
+   "Larvitar",
+   "Aron",
+   "Lairon",
+   "Nosepass",
+   "Numel",
+   "Roggenrola",
+   "Boldore",
+   "Dwebble",
+   "Drilbur",
+   "Rockruff",
+   "Rolycoly",
+   "Carkol",
+   "Bonsly",
+   "Phanpy"
+  ]
+ },
+ {
+  "class": "Fisherman",
+  "biomes": [
+   "Coast",
+   "Sea"
+  ],
+  "size": [
+   1,
+   4
+  ],
+  "pokemon": [
+   "Magikarp",
+   "Goldeen",
+   "Seaking",
+   "Poliwag",
+   "Tentacool",
+   "Krabby",
+   "Horsea",
+   "Shellder",
+   "Gyarados",
+   "Chinchou",
+   "Remoraid",
+   "Qwilfish",
+   "Carvanha",
+   "Barboach",
+   "Feebas",
+   "Finneon",
+   "Basculin",
+   "Skrelp",
+   "Clauncher",
+   "Arrokuda",
+   "Chewtle"
+  ]
+ },
+ {
+  "class": "Swimmer",
+  "biomes": [
+   "Sea",
+   "Coast"
+  ],
+  "size": [
+   1,
+   3
+  ],
+  "pokemon": [
+   "Tentacool",
+   "Tentacruel",
+   "Horsea",
+   "Seadra",
+   "Shellder",
+   "Staryu",
+   "Goldeen",
+   "Poliwag",
+   "Marill",
+   "Wooper",
+   "Corsola",
+   "Wailmer",
+   "Spheal",
+   "Buizel",
+   "Finneon",
+   "Frillish",
+   "Ducklett",
+   "Popplio",
+   "Mareanie",
+   "Wimpod",
+   "Chewtle",
+   "Mantyke"
+  ]
+ },
+ {
+  "class": "Sailor",
+  "biomes": [
+   "Coast",
+   "Sea"
+  ],
+  "size": [
+   1,
+   3
+  ],
+  "pokemon": [
+   "Machop",
+   "Tentacool",
+   "Horsea",
+   "Krabby",
+   "Shellder",
+   "Poliwhirl",
+   "Wingull",
+   "Pelipper",
+   "Corphish",
+   "Buizel",
+   "Basculin",
+   "Frillish",
+   "Binacle",
+   "Wimpod",
+   "Mareanie",
+   "Chewtle",
+   "Clobbopus",
+   "Skrelp",
+   "Qwilfish",
+   "Kingler"
+  ]
+ },
+ {
+  "class": "Gambler",
+  "biomes": [
+   "Grassland",
+   "Urban"
+  ],
+  "size": [
+   1,
+   3
+  ],
+  "pokemon": [
+   "Growlithe",
+   "Vulpix",
+   "Poliwag",
+   "Horsea",
+   "Ponyta",
+   "Onix",
+   "Meowth",
+   "Murkrow",
+   "Sneasel",
+   "Numel",
+   "Torkoal",
+   "Chimchar",
+   "Litwick",
+   "Fennekin",
+   "Litleo",
+   "Salandit",
+   "Sizzlipede",
+   "Rolycoly",
+   "Purrloin",
+   "Impidimp"
+  ]
+ },
+ {
+  "class": "Super Nerd",
+  "biomes": [
+   "Cave",
+   "Indoor",
+   "Urban"
+  ],
+  "size": [
+   1,
+   3
+  ],
+  "pokemon": [
+   "Grimer",
+   "Koffing",
+   "Voltorb",
+   "Magnemite",
+   "Weezing",
+   "Muk",
+   "Ditto",
+   "Porygon",
+   "Elekid",
+   "Magby",
+   "Trubbish",
+   "Klink",
+   "Joltik",
+   "Ferroseed",
+   "Solosis",
+   "Cryogonal",
+   "Sinistea",
+   "Bronzor",
+   "Beldum",
+   "Golett"
+  ]
+ },
+ {
+  "class": "Scientist",
+  "biomes": [
+   "Indoor",
+   "Cave"
+  ],
+  "size": [
+   1,
+   3
+  ],
+  "pokemon": [
+   "Voltorb",
+   "Magnemite",
+   "Magneton",
+   "Grimer",
+   "Muk",
+   "Electrode",
+   "Porygon",
+   "Ditto",
+   "Elekid",
+   "Beldum",
+   "Metang",
+   "Klink",
+   "Klang",
+   "Bronzor",
+   "Golett",
+   "Trubbish",
+   "Solosis",
+   "Sinistea",
+   "Falinks",
+   "Duraludon"
+  ]
+ },
+ {
+  "class": "Engineer",
+  "biomes": [
+   "Indoor",
+   "Mountain",
+   "Urban"
+  ],
+  "size": [
+   1,
+   2
+  ],
+  "pokemon": [
+   "Voltorb",
+   "Magnemite",
+   "Magneton",
+   "Klink",
+   "Klang",
+   "Klinklang",
+   "Bronzor",
+   "Bronzong",
+   "Beldum",
+   "Metang",
+   "Golett",
+   "Golurk",
+   "Togedemaru",
+   "Dedenne",
+   "Falinks",
+   "Duraludon",
+   "Cufant",
+   "Copperajah",
+   "Varoom",
+   "Pawniard"
+  ]
+ },
+ {
+  "class": "Rocker",
+  "biomes": [
+   "Urban",
+   "Indoor"
+  ],
+  "size": [
+   1,
+   2
+  ],
+  "pokemon": [
+   "Voltorb",
+   "Magnemite",
+   "Electrode",
+   "Pikachu",
+   "Elekid",
+   "Electabuzz",
+   "Chinchou",
+   "Mareep",
+   "Flaaffy",
+   "Plusle",
+   "Minun",
+   "Shinx",
+   "Luxio",
+   "Blitzle",
+   "Emolga",
+   "Helioptile",
+   "Toxel",
+   "Yamper",
+   "Morpeko",
+   "Whismur",
+   "Loudred",
+   "Noibat"
+  ]
+ },
+ {
+  "class": "Poke Maniac",
+  "biomes": [
+   "Cave",
+   "Mountain",
+   "Urban"
+  ],
+  "size": [
+   1,
+   3
+  ],
+  "pokemon": [
+   "Slowpoke",
+   "Cubone",
+   "Rhyhorn",
+   "Lickitung",
+   "Kangaskhan",
+   "Charmander",
+   "Tauros",
+   "Pinsir",
+   "Scyther",
+   "Dunsparce",
+   "Girafarig",
+   "Stantler",
+   "Miltank",
+   "Sableye",
+   "Mawile",
+   "Torkoal",
+   "Spinda",
+   "Chatot",
+   "Heatmor",
+   "Durant",
+   "Bouffalant"
+  ]
+ },
+ {
+  "class": "Beauty",
+  "biomes": [
+   "Urban",
+   "Grassland"
+  ],
+  "size": [
+   1,
+   3
+  ],
+  "pokemon": [
+   "Bellsprout",
+   "Oddish",
+   "Gloom",
+   "Meowth",
+   "Persian",
+   "Vulpix",
+   "Ponyta",
+   "Jigglypuff",
+   "Clefairy",
+   "Skitty",
+   "Delcatty",
+   "Roselia",
+   "Cherubi",
+   "Petilil",
+   "Lilligant",
+   "Swirlix",
+   "Aromatisse",
+   "Comfey",
+   "Milcery",
+   "Alcremie"
+  ]
+ },
+ {
+  "class": "Gentleman",
+  "biomes": [
+   "Urban",
+   "Indoor"
+  ],
+  "size": [
+   1,
+   2
+  ],
+  "pokemon": [
+   "Growlithe",
+   "Arcanine",
+   "Ponyta",
+   "Rapidash",
+   "Persian",
+   "Furfrou",
+   "Herdier",
+   "Stoutland",
+   "Delcatty",
+   "Mawile",
+   "Kirlia",
+   "Gardevoir",
+   "Espeon",
+   "Umbreon",
+   "Boltund",
+   "Indeedee (Male Form)",
+   "Polteageist",
+   "Applin",
+   "Sirfetch'd"
+  ]
+ },
+ {
+  "class": "Juggler",
+  "biomes": [
+   "Urban",
+   "Indoor"
+  ],
+  "size": [
+   1,
+   3
+  ],
+  "pokemon": [
+   "Drowzee",
+   "Hypno",
+   "Kadabra",
+   "Mr. Mime",
+   "Voltorb",
+   "Baltoy",
+   "Claydol",
+   "Spoink",
+   "Chimecho",
+   "Bronzor",
+   "Chingling",
+   "Munna",
+   "Gothita",
+   "Solosis",
+   "Espurr",
+   "Comfey",
+   "Spinda",
+   "Sinistea",
+   "Polteageist",
+   "Natu"
+  ]
+ },
+ {
+  "class": "Tamer",
+  "biomes": [
+   "Urban",
+   "Indoor",
+   "Cave"
+  ],
+  "size": [
+   1,
+   2
+  ],
+  "pokemon": [
+   "Sandslash",
+   "Arbok",
+   "Persian",
+   "Rhyhorn",
+   "Tauros",
+   "Houndour",
+   "Houndoom",
+   "Mightyena",
+   "Zangoose",
+   "Seviper",
+   "Luxray",
+   "Purugly",
+   "Krokorok",
+   "Scrafty",
+   "Pangoro",
+   "Herdier",
+   "Boltund",
+   "Thievul",
+   "Obstagoon"
+  ]
+ },
+ {
+  "class": "Camper",
+  "biomes": [
+   "Grassland",
+   "Mountain"
+  ],
+  "size": [
+   1,
+   3
+  ],
+  "pokemon": [
+   "Sandshrew",
+   "Mankey",
+   "Rattata",
+   "Ekans",
+   "Nidoran M",
+   "Spearow",
+   "Sentret",
+   "Hoothoot",
+   "Poochyena",
+   "Zigzagoon",
+   "Taillow",
+   "Shroomish",
+   "Slakoth",
+   "Bidoof",
+   "Starly",
+   "Buneary",
+   "Lillipup",
+   "Deerling",
+   "Bunnelby",
+   "Skwovet",
+   "Nickit"
+  ]
+ },
+ {
+  "class": "Picnicker",
+  "biomes": [
+   "Grassland",
+   "Forest"
+  ],
+  "size": [
+   1,
+   3
+  ],
+  "pokemon": [
+   "Oddish",
+   "Bellsprout",
+   "Nidoran F",
+   "Pidgey",
+   "Pikachu",
+   "Clefairy",
+   "Marill",
+   "Hoppip",
+   "Sunkern",
+   "Skitty",
+   "Shroomish",
+   "Cherubi",
+   "Buneary",
+   "Petilil",
+   "Deerling",
+   "Cutiefly",
+   "Morelull",
+   "Bounsweet",
+   "Applin",
+   "Wooloo",
+   "Milcery"
+  ]
+ },
+ {
+  "class": "Jr. Trainer",
+  "biomes": [
+   "Grassland",
+   "Mountain",
+   "Coast"
+  ],
+  "size": [
+   1,
+   3
+  ],
+  "pokemon": [
+   "Rattata",
+   "Pidgey",
+   "Spearow",
+   "Sandshrew",
+   "Ekans",
+   "Oddish",
+   "Nidoran F",
+   "Nidoran M",
+   "Sentret",
+   "Zigzagoon",
+   "Poochyena",
+   "Taillow",
+   "Starly",
+   "Bidoof",
+   "Shinx",
+   "Patrat",
+   "Lillipup",
+   "Bunnelby",
+   "Rookidee",
+   "Skwovet",
+   "Yungoos",
+   "Wooloo"
+  ]
+ },
+ {
+  "class": "Cooltrainer",
+  "locations": [
+   "route23",
+   "victoryroad"
+  ],
+  "size": [
+   2,
+   4
+  ],
+  "pokemon": [
+   "Nidoqueen",
+   "Nidoking",
+   "Rhyhorn",
+   "Vileplume",
+   "Sandslash",
+   "Persian",
+   "Arcanine",
+   "Kadabra",
+   "Scyther",
+   "Pinsir",
+   "Tauros",
+   "Electabuzz",
+   "Magmar",
+   "Jynx",
+   "Houndoom",
+   "Skarmory",
+   "Donphan",
+   "Flygon",
+   "Metang",
+   "Lucario",
+   "Garchomp",
+   "Bisharp",
+   "Mienshao",
+   "Hydreigon"
+  ]
+ },
+ {
+  "class": "Black Belt",
+  "locations": [
+   "fightingdojo",
+   "victoryroad"
+  ],
+  "size": [
+   1,
+   3
+  ],
+  "pokemon": [
+   "Machop",
+   "Machoke",
+   "Machamp",
+   "Mankey",
+   "Primeape",
+   "Hitmonlee",
+   "Hitmonchan",
+   "Tyrogue",
+   "Hitmontop",
+   "Makuhita",
+   "Hariyama",
+   "Meditite",
+   "Medicham",
+   "Riolu",
+   "Lucario",
+   "Croagunk",
+   "Scraggy",
+   "Timburr",
+   "Mienfoo",
+   "Pancham",
+   "Crabrawler",
+   "Falinks",
+   "Clobbopus"
+  ]
+ },
+ {
+  "class": "Crush Kin",
+  "locations": [
+   "fightingdojo"
+  ],
+  "size": [
+   1,
+   2
+  ],
+  "pokemon": [
+   "Machop",
+   "Mankey",
+   "Primeape",
+   "Hitmonlee",
+   "Hitmonchan",
+   "Machoke",
+   "Tyrogue",
+   "Hitmontop",
+   "Makuhita",
+   "Meditite",
+   "Timburr",
+   "Gurdurr",
+   "Scraggy",
+   "Mienfoo",
+   "Pancham",
+   "Croagunk",
+   "Riolu",
+   "Clobbopus",
+   "Falinks"
+  ]
+ },
+ {
+  "class": "Channeler",
+  "titleOnly": true,
+  "locations": [
+   "poketower"
+  ],
+  "size": [
+   1,
+   2
+  ],
+  "pokemon": [
+   "Gastly",
+   "Haunter",
+   "Gengar",
+   "Misdreavus",
+   "Shuppet",
+   "Banette",
+   "Duskull",
+   "Dusclops",
+   "Drifloon",
+   "Litwick",
+   "Lampent",
+   "Yamask",
+   "Golett",
+   "Phantump",
+   "Pumpkaboo",
+   "Sableye",
+   "Spiritomb",
+   "Sinistea",
+   "Polteageist",
+   "Dreepy",
+   "Drowzee",
+   "Hypno"
+  ]
+ },
+ {
+  "class": "Psychic",
+  "locations": [
+   "saffron",
+   "silph"
+  ],
+  "size": [
+   1,
+   3
+  ],
+  "pokemon": [
+   "Kadabra",
+   "Slowpoke",
+   "Mr. Mime",
+   "Drowzee",
+   "Hypno",
+   "Abra",
+   "Espeon",
+   "Natu",
+   "Xatu",
+   "Girafarig",
+   "Ralts",
+   "Kirlia",
+   "Meditite",
+   "Spoink",
+   "Baltoy",
+   "Chimecho",
+   "Munna",
+   "Gothita",
+   "Solosis",
+   "Elgyem",
+   "Espurr",
+   "Inkay",
+   "Indeedee (Female Form)"
+  ]
+ },
+ {
+  "class": "Biker",
+  "outlaw": true,
+  "locations": [
+   "route16",
+   "route17",
+   "route18"
+  ],
+  "size": [
+   1,
+   3
+  ],
+  "pokemon": [
+   "Koffing",
+   "Grimer",
+   "Weezing",
+   "Muk",
+   "Cubone",
+   "Marowak",
+   "Houndour",
+   "Sneasel",
+   "Poochyena",
+   "Mightyena",
+   "Numel",
+   "Carvanha",
+   "Skorupi",
+   "Croagunk",
+   "Stunky",
+   "Scraggy",
+   "Trubbish",
+   "Salandit",
+   "Impidimp",
+   "Obstagoon",
+   "Varoom"
+  ]
+ },
+ {
+  "class": "Cue Ball",
+  "outlaw": true,
+  "locations": [
+   "route16",
+   "route17",
+   "route18"
+  ],
+  "size": [
+   1,
+   3
+  ],
+  "pokemon": [
+   "Machop",
+   "Mankey",
+   "Grimer",
+   "Primeape",
+   "Machoke",
+   "Poochyena",
+   "Makuhita",
+   "Meditite",
+   "Croagunk",
+   "Scraggy",
+   "Timburr",
+   "Gurdurr",
+   "Trubbish",
+   "Pancham",
+   "Stunky",
+   "Sableye",
+   "Impidimp",
+   "Clobbopus",
+   "Obstagoon"
+  ]
+ },
+ {
+  "class": "Burglar",
+  "outlaw": true,
+  "locations": [
+   "mansion"
+  ],
+  "size": [
+   1,
+   3
+  ],
+  "pokemon": [
+   "Growlithe",
+   "Vulpix",
+   "Koffing",
+   "Grimer",
+   "Ponyta",
+   "Houndour",
+   "Houndoom",
+   "Sneasel",
+   "Murkrow",
+   "Magby",
+   "Numel",
+   "Torkoal",
+   "Stunky",
+   "Purrloin",
+   "Litwick",
+   "Salandit",
+   "Nickit",
+   "Thievul",
+   "Sizzlipede",
+   "Impidimp"
+  ]
+ },
+ {
+  "class": "Rocket Grunt",
+  "outlaw": true,
+  "titleOnly": true,
+  "locations": [
+   "mtmoon",
+   "poketower",
+   "gamecorner",
+   "silph"
+  ],
+  "size": [
+   1,
+   3
+  ],
+  "pokemon": [
+   "Rattata",
+   "Raticate",
+   "Zubat",
+   "Golbat",
+   "Ekans",
+   "Arbok",
+   "Sandshrew",
+   "Koffing",
+   "Grimer",
+   "Drowzee",
+   "Machop",
+   "Houndour",
+   "Murkrow",
+   "Sneasel",
+   "Poochyena",
+   "Mightyena",
+   "Stunky",
+   "Skorupi",
+   "Trubbish",
+   "Scraggy",
+   "Purrloin",
+   "Nickit",
+   "Salandit",
+   "Varoom"
+  ]
+ }
+]

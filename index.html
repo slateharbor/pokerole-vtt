@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Pokérole VTT</title>
+<style>
+  :root{
+    --bg:#0e1219; --panel:#161d27; --line:#2c3342; --ink:#e8eef7;
+    --dim:#93a2b8; --accent:#ffc43c; --accent2:#5aa0e0;
+  }
+  @media (prefers-color-scheme: light){
+    :root{--bg:#f5f7fb; --panel:#ffffff; --line:#dde3ec; --ink:#16202c; --dim:#5a6b80;
+          --accent:#b8801a; --accent2:#2f6ea8;}
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+       font:16px/1.62 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+       -webkit-font-smoothing:antialiased}
+  .wrap{max-width:880px;margin:0 auto;padding:60px 22px 84px}
+  h1{font-size:clamp(32px,6.5vw,50px);line-height:1.05;margin:0 0 12px;letter-spacing:-.025em}
+  h1 span{color:var(--accent)}
+  .sub{color:var(--dim);font-size:clamp(16px,2.4vw,19px);margin:0;max-width:46ch}
+  .cards{display:grid;gap:14px;grid-template-columns:repeat(auto-fit,minmax(252px,1fr));
+         margin:34px 0 30px}
+  a.card{display:block;padding:20px;border:1px solid var(--line);border-radius:14px;
+         background:var(--panel);text-decoration:none;color:inherit;
+         transition:border-color .15s, transform .15s}
+  a.card:hover,a.card:focus-visible{border-color:var(--accent);transform:translateY(-2px)}
+  a.card b{display:block;font-size:18px;margin-bottom:6px}
+  a.card span{color:var(--dim);font-size:14px;line-height:1.5}
+  .note{border-left:3px solid var(--accent2);background:var(--panel);padding:13px 17px;
+        border-radius:0 10px 10px 0;color:var(--dim);font-size:14.5px;margin:0 0 30px}
+  .note b{color:var(--ink)}
+  h2{font-size:15px;text-transform:uppercase;letter-spacing:.09em;color:var(--dim);
+     margin:34px 0 12px;font-weight:700}
+  ul{color:var(--dim);padding-left:20px;margin:0}
+  li{margin:9px 0} li b{color:var(--ink)}
+  footer{margin-top:46px;padding-top:20px;border-top:1px solid var(--line);
+         color:var(--dim);font-size:13px;line-height:1.7}
+  a{color:var(--accent2)}
+  :focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+</style></head><body><div class="wrap">
+
+<h1>Pokérole <span>VTT</span></h1>
+<p class="sub">A virtual tabletop for the Pokérole tabletop RPG, built as two self-contained HTML
+files. No install, no server, no accounts. Open one and it runs.</p>
+
+<div class="cards">
+  <a class="card" href="Pokerole%20DM%20Toolkit.html">
+    <b>⚔ Open the GM toolkit</b>
+    <span>Combat tracker, the full dex, cast &amp; NPCs, encounters, shops, campaign planner,
+    tournaments.</span></a>
+  <a class="card" href="Pokerole%20Player%20Companion.html">
+    <b>📱 Open the player app</b>
+    <span>Trainer sheet, team and bag — and your half of a battle, on your own screen.</span></a>
+</div>
+
+<div class="note"><b>Start with the GM toolkit.</b> Go to <b>⚔ Combat → 🎯 Spawn</b>, type any
+species, and add it to the field. Everything — 1,200 species, 860 moves, 300 abilities — is baked
+into the file you just loaded. Multiplayer needs a free Firebase project of your own; single-screen
+play needs nothing at all.</div>
+
+<h2>What's in it</h2>
+<ul>
+  <li><b>Combat that knows the rules.</b> Dice pools built off the sheet, the full reaction window,
+      statuses with real durations, weather and terrain, and 300 abilities that fire on their own
+      rather than sitting in a tooltip.</li>
+  <li><b>Players roll their own dice.</b> When the GM attacks, the target's screen shows the
+      incoming successes, their dodge pool, and what dodging costs them.</li>
+  <li><b>A campaign planner that runs sessions</b> — scenes, skill checks, encounters and rewards
+      as structured data, played beat by beat instead of read off a document.</li>
+  <li><b>The whole economy</b> — shops, crafting, breeding, day care, training, trading, and a
+      Pokédex that unlocks in tiers as you meet things.</li>
+  <li><b>Set pieces</b> — tournaments with brackets and side betting, contests, a Safari Zone, a
+      game corner, boss framing with lair actions.</li>
+</ul>
+
+<footer>
+  <a href="https://github.com/slateharbor/pokerole-vtt">Source on GitHub</a>
+  <br><br>
+  Pokérole is a fan-made Pokémon tabletop RPG; this is an unofficial companion tool and contains no
+  rulebook text. Pokémon is © Nintendo / Creatures Inc. / GAME FREAK. Non-commercial fan project,
+  unaffiliated. Sprites are loaded at runtime — trainer art from Pokémon Showdown, Pokémon art from a
+  mirror hosted via jsDelivr.
+</footer>
+
+</div></body></html>

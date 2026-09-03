@@ -1,0 +1,434 @@
+{
+ "Old Pokeball": {
+  "skill": "Crafts",
+  "req": 1,
+  "dl": 1,
+  "mats": {
+   "Sturdy Vine": 2,
+   "Iron Chunk": 1
+  }
+ },
+ "Fast Ball": {
+  "skill": "Crafts",
+  "req": 2,
+  "dl": 2,
+  "mats": {
+   "White Apricorn": 1,
+   "Seal Crystal": 2,
+   "Sturdy Vine": 1
+  }
+ },
+ "Heavy Ball": {
+  "skill": "Crafts",
+  "req": 2,
+  "dl": 2,
+  "mats": {
+   "Black Apricorn": 1,
+   "Iron Chunk": 2,
+   "Seal Crystal": 2
+  }
+ },
+ "Quick Ball": {
+  "skill": "Crafts",
+  "req": 3,
+  "dl": 3,
+  "mats": {
+   "Yellow Apricorn": 1,
+   "Static Ore": 1,
+   "Seal Crystal": 2
+  }
+ },
+ "Dusk Ball": {
+  "skill": "Crafts",
+  "req": 3,
+  "dl": 3,
+  "mats": {
+   "Black Apricorn": 1,
+   "Dusk Shard": 1,
+   "Seal Crystal": 2
+  }
+ },
+ "Luxury Ball": {
+  "skill": "Crafts",
+  "req": 4,
+  "dl": 3,
+  "mats": {
+   "Red Apricorn": 1,
+   "Sweet Sap": 1,
+   "Glimmer Dust": 1,
+   "Seal Crystal": 2
+  }
+ },
+ "Remedy": {
+  "skill": "Medicine",
+  "req": 1,
+  "dl": 1,
+  "mats": {
+   "Energy Root": 1
+  },
+  "yield": "remedy"
+ },
+ "Antidote": {
+  "skill": "Medicine",
+  "req": 2,
+  "dl": 2,
+  "mats": {
+   "Medicinal Herb": 1,
+   "Mineral Salt": 1
+  }
+ },
+ "Awakening": {
+  "skill": "Medicine",
+  "req": 2,
+  "dl": 2,
+  "mats": {
+   "Medicinal Herb": 1,
+   "Mineral Salt": 1
+  }
+ },
+ "Burn Heal": {
+  "skill": "Medicine",
+  "req": 2,
+  "dl": 2,
+  "mats": {
+   "Medicinal Herb": 1,
+   "Mineral Salt": 1
+  }
+ },
+ "Ice Heal": {
+  "skill": "Medicine",
+  "req": 2,
+  "dl": 2,
+  "mats": {
+   "Medicinal Herb": 1,
+   "Mineral Salt": 1
+  }
+ },
+ "Paralyze Heal": {
+  "skill": "Medicine",
+  "req": 2,
+  "dl": 2,
+  "mats": {
+   "Medicinal Herb": 1,
+   "Mineral Salt": 1
+  }
+ },
+ "Heal Powder": {
+  "skill": "Medicine",
+  "req": 3,
+  "dl": 2,
+  "mats": {
+   "Bitter Root": 1,
+   "Medicinal Herb": 2
+  }
+ },
+ "Full Heal": {
+  "skill": "Medicine",
+  "req": 3,
+  "dl": 3,
+  "mats": {
+   "Bitter Root": 1,
+   "Medicinal Herb": 2,
+   "Mineral Salt": 1
+  }
+ },
+ "Berry Juice": {
+  "skill": "Crafts",
+  "cook": true,
+  "req": 1,
+  "dl": 1,
+  "mats": {
+   "anyBerry": 2
+  }
+ },
+ "Chocolate": {
+  "skill": "Crafts",
+  "cook": true,
+  "req": 1,
+  "dl": 1,
+  "mats": {
+   "Sweet Sap": 1,
+   "anyBerry": 1
+  }
+ },
+ "Ice Cream": {
+  "skill": "Crafts",
+  "cook": true,
+  "req": 2,
+  "dl": 2,
+  "mats": {
+   "Sweet Sap": 1,
+   "anyBerry": 1
+  }
+ },
+ "Baked Goods": {
+  "skill": "Crafts",
+  "cook": true,
+  "req": 2,
+  "dl": 2,
+  "mats": {
+   "Sweet Sap": 1,
+   "anyBerry": 2
+  }
+ },
+ "Dry Food": {
+  "skill": "Crafts",
+  "cook": true,
+  "req": 1,
+  "dl": 1,
+  "mats": {
+   "anyBerry": 1
+  }
+ },
+ "High-Performance Food": {
+  "skill": "Crafts",
+  "cook": true,
+  "req": 2,
+  "dl": 2,
+  "mats": {
+   "anyBerry": 2,
+   "Bitter Root": 1
+  }
+ },
+ "Gourmet Food": {
+  "skill": "Crafts",
+  "cook": true,
+  "req": 2,
+  "dl": 2,
+  "mats": {
+   "Sweet Sap": 2,
+   "anyBerry": 2
+  }
+ },
+ "Fishing Rod": {
+  "skill": "Crafts",
+  "gear": true,
+  "req": 1,
+  "dl": 1,
+  "mats": {
+   "Sturdy Vine": 2,
+   "Iron Chunk": 1
+  }
+ },
+ "Sled": {
+  "skill": "Crafts",
+  "gear": true,
+  "req": 1,
+  "dl": 2,
+  "mats": {
+   "Sturdy Vine": 2,
+   "Iron Chunk": 2
+  }
+ },
+ "Saddle": {
+  "skill": "Crafts",
+  "gear": true,
+  "req": 2,
+  "dl": 2,
+  "mats": {
+   "Sturdy Vine": 3,
+   "Iron Chunk": 1
+  }
+ },
+ "Sleeping Bag": {
+  "skill": "Crafts",
+  "gear": true,
+  "req": 2,
+  "dl": 2,
+  "mats": {
+   "Sturdy Vine": 2,
+   "Sweet Sap": 1
+  }
+ },
+ "Small Camping Tent": {
+  "skill": "Crafts",
+  "gear": true,
+  "req": 3,
+  "dl": 3,
+  "mats": {
+   "Sturdy Vine": 3,
+   "Iron Chunk": 2,
+   "Sweet Sap": 1
+  }
+ },
+ "Black Belt": {
+  "skill": "Crafts",
+  "boost": true,
+  "req": 4,
+  "dl": 3,
+  "mats": {
+   "Seal Crystal": 1,
+   "Iron Chunk": 2
+  }
+ },
+ "Black Glasses": {
+  "skill": "Crafts",
+  "boost": true,
+  "req": 4,
+  "dl": 3,
+  "mats": {
+   "Seal Crystal": 1,
+   "Iron Chunk": 2
+  }
+ },
+ "Charcoal": {
+  "skill": "Crafts",
+  "boost": true,
+  "req": 4,
+  "dl": 3,
+  "mats": {
+   "Seal Crystal": 1,
+   "Iron Chunk": 2
+  }
+ },
+ "Dragon Fang": {
+  "skill": "Crafts",
+  "boost": true,
+  "req": 4,
+  "dl": 3,
+  "mats": {
+   "Seal Crystal": 1,
+   "Iron Chunk": 2
+  }
+ },
+ "Fairy Wings": {
+  "skill": "Crafts",
+  "boost": true,
+  "req": 4,
+  "dl": 3,
+  "mats": {
+   "Seal Crystal": 1,
+   "Iron Chunk": 2
+  }
+ },
+ "Hard Stone": {
+  "skill": "Crafts",
+  "boost": true,
+  "req": 4,
+  "dl": 3,
+  "mats": {
+   "Seal Crystal": 1,
+   "Iron Chunk": 2
+  }
+ },
+ "Magnet": {
+  "skill": "Crafts",
+  "boost": true,
+  "req": 4,
+  "dl": 3,
+  "mats": {
+   "Seal Crystal": 1,
+   "Iron Chunk": 2
+  }
+ },
+ "Metal Coat": {
+  "skill": "Crafts",
+  "boost": true,
+  "req": 4,
+  "dl": 3,
+  "mats": {
+   "Seal Crystal": 1,
+   "Iron Chunk": 2
+  }
+ },
+ "Miracle Seed": {
+  "skill": "Crafts",
+  "boost": true,
+  "req": 4,
+  "dl": 3,
+  "mats": {
+   "Seal Crystal": 1,
+   "Iron Chunk": 2
+  }
+ },
+ "Mystic Water": {
+  "skill": "Crafts",
+  "boost": true,
+  "req": 4,
+  "dl": 3,
+  "mats": {
+   "Seal Crystal": 1,
+   "Iron Chunk": 2
+  }
+ },
+ "Never-Melt Ice": {
+  "skill": "Crafts",
+  "boost": true,
+  "req": 4,
+  "dl": 3,
+  "mats": {
+   "Seal Crystal": 1,
+   "Iron Chunk": 2
+  }
+ },
+ "Poison Barb": {
+  "skill": "Crafts",
+  "boost": true,
+  "req": 4,
+  "dl": 3,
+  "mats": {
+   "Seal Crystal": 1,
+   "Iron Chunk": 2
+  }
+ },
+ "Sharp Beak": {
+  "skill": "Crafts",
+  "boost": true,
+  "req": 4,
+  "dl": 3,
+  "mats": {
+   "Seal Crystal": 1,
+   "Iron Chunk": 2
+  }
+ },
+ "Silk Scarf": {
+  "skill": "Crafts",
+  "boost": true,
+  "req": 4,
+  "dl": 3,
+  "mats": {
+   "Seal Crystal": 1,
+   "Iron Chunk": 2
+  }
+ },
+ "Silver Powder": {
+  "skill": "Crafts",
+  "boost": true,
+  "req": 4,
+  "dl": 3,
+  "mats": {
+   "Seal Crystal": 1,
+   "Iron Chunk": 2
+  }
+ },
+ "Soft Sand": {
+  "skill": "Crafts",
+  "boost": true,
+  "req": 4,
+  "dl": 3,
+  "mats": {
+   "Seal Crystal": 1,
+   "Iron Chunk": 2
+  }
+ },
+ "Spell Tag": {
+  "skill": "Crafts",
+  "boost": true,
+  "req": 4,
+  "dl": 3,
+  "mats": {
+   "Seal Crystal": 1,
+   "Iron Chunk": 2
+  }
+ },
+ "Twisted Spoon": {
+  "skill": "Crafts",
+  "boost": true,
+  "req": 4,
+  "dl": 3,
+  "mats": {
+   "Seal Crystal": 1,
+   "Iron Chunk": 2
+  }
+ }
+}
