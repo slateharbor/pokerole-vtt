@@ -104,6 +104,9 @@ Built for, and run at, a live weekly table. It is a personal project rather than
 
 MIT — see [LICENSE](LICENSE). Copyright (c) 2026 **slateharbor**.
 
+The licence covers this repository's code. See [NOTICE](NOTICE.md) for the Pokérole and
+Pokémon attributions and the third-party assets loaded at runtime.
+
 Use it, fork it, run your table on it. The only condition is that the copyright notice
 travels with it.
 
